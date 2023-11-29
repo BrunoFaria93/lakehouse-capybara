@@ -148,14 +148,14 @@ function Services() {
           </div>
           <List className="order-1 mt-16 lg:order-2 lg:mt-0 lg:pl-4">
             <ListItem title="Expertise in iOS Development">
-              Our team's extensive knowledge of the industry and deep expertise
-              in the latest Apple technologies ensure that you get the best
-              solutions.
+              Our team&apos;s extensive knowledge of the industry and deep
+              expertise in the latest Apple technologies ensure that you get the
+              best solutions.
             </ListItem>
             <ListItem title="Agile Development">
               We believe in a collaborative approach. With Lakehouse Capybara,
-              you'll be an active part of the development process, ensuring your
-              vision is realized.
+              you&apos;ll be an active part of the development process, ensuring
+              your vision is realized.
             </ListItem>
             <ListItem title="Quality Assurance">
               We prioritize delivering thoroughly tested code that adheres to
@@ -193,7 +193,7 @@ function Services() {
             </ListItem>
             <ListItem title="Quality Assurance">
               Our rigorous testing ensures your app performs flawlessly, meeting
-              your users' high expectations.
+              your users high expectations.
             </ListItem>
           </List>
         </div>
