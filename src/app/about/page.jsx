@@ -131,7 +131,7 @@ const team = [
 function Team() {
   return (
     <Container className="mt-24 sm:mt-32 lg:mt-40">
-      <div className="space-y-24">
+      {/* <div className="space-y-24">
         {team.map((group) => (
           <FadeInStagger key={group.title}>
             <Border as={FadeIn} />
@@ -172,7 +172,7 @@ function Team() {
             </div>
           </FadeInStagger>
         ))}
-      </div>
+      </div> */}
     </Container>
   )
 }
