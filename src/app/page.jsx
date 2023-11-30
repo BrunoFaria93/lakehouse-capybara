@@ -168,7 +168,7 @@ function Services() {
 
       <SectionIntro
         eyebrow=""
-        title="Our Services"
+        title="Services"
         className="mt-24 sm:mt-32 lg:mt-40"
       ></SectionIntro>
       <Container className="mt-16">
